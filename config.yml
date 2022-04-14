@@ -1,7 +1,7 @@
 # Very simple Jekyll config file
 
-# define the site name
-site_name: "yoursred's magic blog"
+# define the title
+title: "yoursred's magic blog"
 
 # Collection of posts
 # Path: pages/dated/
