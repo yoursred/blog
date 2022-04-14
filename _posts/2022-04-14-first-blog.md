@@ -1,3 +1,8 @@
+---
+layout: post
+title: "My first blog"
+---
+
 # April 14, 2022
 
 This is my first time doing a blog thing.

@@ -3,13 +3,3 @@
 # define the title
 title: "yoursred's magic blog"
 
-# Collection of posts
-# Path: pages/dated/
-collections:
-  posts:
-    output: true
-    directory: pages/dated/
-    permalink: /:year/:month/:day/:title/
-    paginate:
-      per_page: 10
-      layout: post
