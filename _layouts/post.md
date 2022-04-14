@@ -6,3 +6,5 @@ layout: default
 <h3> {{ page.date | date_to_string }} </h3>
 
 {{ content }}
+
+{% include contact.md %}
