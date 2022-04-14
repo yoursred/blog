@@ -3,8 +3,6 @@ layout: post
 title: "My first blog"
 ---
 
-# {{ page.date | date_to_string }}
-
 This is my first time doing a blog thing.
 
 Not much has happened in my life recently. No class ~~tomorrow~~ today, so I'll have some time to clean up my apartment (things are somewhat messy).
@@ -70,4 +68,5 @@ These were taken in the last few months.
 </p>
 
   - Portal 2 turret prima donna
+  - 
 <img src="/images/april/fat_turret.jpeg" height="240">
