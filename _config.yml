@@ -1,0 +1,15 @@
+# Very simple Jekyll config file
+
+# define the title
+title: "yoursred's magic blog"
+
+# Collection of posts
+# Path: pages/dated/
+collection:
+  posts:
+    output: true
+    directory: pages/dated/
+    permalink: /:year/:month/:day/:title/
+    paginate:
+      per_page: 10
+      layout: post
