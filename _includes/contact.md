@@ -1,8 +1,3 @@
----
-layout: default
-
----
-
 ___
 
 Email: [yoursred@yoursred.com](mailto:yoursred@yoursred.com)
