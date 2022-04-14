@@ -1,0 +1,1 @@
+# yoursred's magical blog
