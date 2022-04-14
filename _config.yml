@@ -5,7 +5,7 @@ title: "yoursred's magic blog"
 
 # Collection of posts
 # Path: pages/dated/
-collection:
+collections:
   posts:
     output: true
     directory: pages/dated/
