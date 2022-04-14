@@ -7,4 +7,4 @@ layout: default
 
 {{ content }}
 
-{% include contact.md | markdownify %}
+{% include footer.html %}

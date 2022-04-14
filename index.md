@@ -5,4 +5,4 @@
     > {{  post.content | strip_html | truncatewords: 50 }}
 {% endfor %}
 
-{% include contact.md %}
+{% include footer.html %}
