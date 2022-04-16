@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My first blog"
+visible: true
 ---
 
 This is my first time doing a blog thing.
