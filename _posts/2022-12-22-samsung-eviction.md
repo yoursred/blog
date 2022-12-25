@@ -31,8 +31,8 @@ To get access to those, got to `Settings > About > Software information` and loo
 Install this [app](https://play.google.com/store/apps/details?id=com.csdroid.pkg) and look for what you want removed. Enable export mode (1), select the unwanted apps (2), then finally export a csv containing them (3).
 
 <p float="left">
-    <img src="/images/december/search.jpg", width="240">
-    <img src="/images/december/select.jpg", width="240">
+    <img src="/images/december/search.jpg", width="240"/>
+    <img src="/images/december/select.jpg", width="240"/>
 </p>
 
 You should find this file on your phone under `Android/data/com.csdroid.pkg/pkg/files`, otherwise the app will tell you where. Copy the list to your computer and open it.
@@ -47,9 +47,9 @@ If it looks like the image above, you'll only need what's between the commas.
 
 ## Issuing the eviction notice
 
-Keep in mind that some apps might be important for some features on your device, so proceed with your caution.
+Keep in mind that some apps might be important for some features on your device, so proceed with caution.
 
-Connect your device to your computer with a usb cable, then open a terminal. Run `adb devices` and you should get a popup on your device that looks like this:
+Connect your device to your computer with a usb cable, then open a terminal. Run `adb devices` and you should get a popup that looks like this:
 
 <img src="/images/december/usb.jpg" width="240"/>
 
