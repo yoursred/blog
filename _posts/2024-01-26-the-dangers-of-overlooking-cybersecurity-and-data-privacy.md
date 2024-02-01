@@ -7,6 +7,8 @@ visible: true
 
 ## The Dangers Of Overlooking Cybersecurity And Data Privacy
 
+* TOC
+{:toc}
 
 How many passwords do you use online? Are you aware of what personal information about you is on the internet? Do you know who can access that data and their intentions with it? These are all questions the average person unfortunately doesn’t come across nearly as often as they should. With our lives becoming more and more connected and digitized by the second, a terrifying realization manifests, or even worse, fails to. This essay will look into bad cybersecurity and data privacy practices, their consequences, and ways to remedy them. It will be split into two parts: platform-end issues and user-end solutions.
 

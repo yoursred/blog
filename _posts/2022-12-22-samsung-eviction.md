@@ -6,6 +6,9 @@ visible: true
 
 # How to forcefully evict unwanted apps on Android
 
+* TOC
+{:toc}
+
 Many Android phones have a big problem with unwanted, pre-installed, non-removable bloatware. This bloat can sometimes be mostly harmless, and sometimes it's the god-awful Facebook. Today I'll show you how to remove such garbagefrom your Android device.
 
 Here's a bunch of them that appeared on my phone after an update

@@ -4,6 +4,9 @@ title: "My first blog"
 visible: true
 ---
 
+* TOC
+{:toc}
+
 This is my first time doing a blog thing.
 
 Not much has happened in my life recently. No class ~~tomorrow~~ today, so I'll have some time to clean up my apartment (things are somewhat messy).
