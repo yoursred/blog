@@ -1,3 +1,8 @@
+---
+layout: post
+title: "The Evolution and Inner Workings of Blockchain Technology"
+visible: true
+---
 # The Evolution and Inner Workings of Blockchain Technology
 
 Originally submitted on: 15 December 2023
